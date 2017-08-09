@@ -1,0 +1,44 @@
+h1{
+  font-size:70px;
+  text-align:center;
+  font-family: 'Orbitron', sans-serif;
+  color:whitesmoke;
+}
+.main{  
+  height:50px;
+    width:300px;
+    display:block;
+    margin: 10% auto;
+}
+#search{
+  font-size:30px;
+    font-family: 'Josefin Slab', serif;
+    border-radius: 10px;
+}
+.data:hover{
+	font-size:30px;
+}
+.material-icons.md-96 { font-size: 96px; }
+
+body{
+    background-image: url("http://wally.freshartlongisland.com/wp-content/uploads/2016/09/How-to-Paint-Textured-Walls.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.result{
+  font-family: 'Josefin Slab', serif;
+    color:white;
+}
+.data{
+    font-size: 20px;
+}
+.link{
+   font-size: 23px; 
+}
+.random{
+  font-size:30px;
+   font-family: 'Josefin Slab', serif;
+}
+.buttons{
+  margin-left:50px;
+}
